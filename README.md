@@ -75,5 +75,5 @@ Coming soon—UI preview and LED behavior demo.
 - Manual time/date fallback
 
 ## 🧠 License & Credits
-MIT License. Built with love by Cody. Retro theme inspired by CRT displays and 90s PC vibes.
+Open Source License. Built with love by Cody. Retro theme inspired by CRT displays and 90s PC vibes.
 

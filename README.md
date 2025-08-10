@@ -2,6 +2,16 @@
 
 A retro-themed, Wi‑Fi–enabled weather station powered by ESP8266. It reads temperature and humidity via a DHT22 sensor, displays info on an SSD1306 OLED, and shows temperature bands through animated LED breathing. Fully controllable via a web-based CRT-style UI with serial logging and history tracking.
 
+## 📖 Table of Contents
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Wiring Summary](#-wiring-summary)
+- [Flashing the Code](#-flashing-the-code)
+- [Accessing the UI](#-accessing-the-ui)
+- [API Endpoints](#-api-endpoints)
+- [Future Improvements](#-future-improvements)
+- [License & Credits](#-license--credits)
+
 ## 🌟 Features
 - NTP-based resilient time/date handling with offline fallback
 - Web server with retro CRT UI theme (mobile-friendly)

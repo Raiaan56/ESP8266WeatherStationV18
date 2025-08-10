@@ -11,7 +11,7 @@ A retro-themed, Wi‑Fi–enabled weather station powered by ESP8266. It reads t
 - [API Endpoints](#-api-endpoints)
 - [Future Improvements](#-future-improvements)
 - [License & Credits](#-license--credits)
-- [UI Preview](assets/ui-preview.png)
+- [UI Preview](assets/ui-preview(1).png)
 
 
 ## 🌟 Features

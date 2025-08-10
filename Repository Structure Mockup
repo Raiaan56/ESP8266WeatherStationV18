@@ -1,0 +1,8 @@
+weather-station-v18/
+├── CHANGELOG.md          # Version-by-version improvements
+├── PRODUCT_SPEC.md       # Full feature breakdown and hardware spec
+├── README.md             # Overview, setup, usage guide
+├── weather_station_v18.ino  # Your main firmware file
+├── architecture.md       # Project architecture and data flow
+├── .gitignore            # Tells Git which files to ignore
+└── assets/               # Folder for future screenshots or diagrams

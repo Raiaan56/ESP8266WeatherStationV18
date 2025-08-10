@@ -19,3 +19,48 @@
 # Backup files
 *.bak
 *.tmp
+
+# Compiled binaries and intermediates
+*.hex
+*.elf
+*.bin
+*.map
+*.lst
+*.o
+*.d
+*.out
+*.a
+
+# Arduino/PlatformIO build artifacts
+.pio/
+.build/
+.cmake-build-*/
+*.ino.cpp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# macOS / Windows cruft
+.DS_Store
+Thumbs.db
+
+# Node/Python (if used for tooling)
+node_modules/
+__pycache__/
+*.pyc
+
+# Project-specific secrets/config
+secrets.h
+secrets/*.h
+config.local.h
+config/*.local.h
+
+# Assets you don’t want tracked
+assets/raw/
